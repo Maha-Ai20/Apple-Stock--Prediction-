@@ -1,10 +1,6 @@
 > AAPL Stock Closing Price Prediction (Machine Learning Project)
 > This project, developed for our Data Mining course, applies and compares multiple regression models to predict the closing price of Apple (AAPL) stock based on historical trading data.
 > Key Finding: A simple Linear Regression model significantly outperformed more complex models (like Random Forest and Gradient Boosting), achieving an R² score of 98.37% and demonstrating superior stability during extreme market volatility.
->  Team Members
->  * Maha Alrashidi
->  * Nuha Alshammari
->  * Fajer Alfozan
 >  Dataset
 >  * Source: Kaggle - Stock Market Dataset
 >  * File Used: AAPL.csv
@@ -54,3 +50,8 @@
 >    * NumPy (Numerical operations)
 >    * Plotly Express (Interactive visualizations)
 >    * KaggleHub (Data import)
+>   
+>    * Team Members :
+>  * Maha Alrashidi
+>  * Nuha Alshammari
+>  * Fajer Alfozan
