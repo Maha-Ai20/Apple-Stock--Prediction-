@@ -4,7 +4,7 @@
 >  Dataset
 >  * Source: Kaggle - Stock Market Dataset
 >  * File Used: AAPL.csv
->  * Time Range: 1980 - 2020 (40 years of daily stock data)
+>  * Time Range: 1980 - 2020 (40 years of daily stock data) 
 >  Methodology
 > We followed a strict methodology to ensure accurate results and prevent common pitfalls like data leakage.
 > 1. Data Cleaning
